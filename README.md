@@ -42,7 +42,6 @@ A JavaFX application that allows users to **scan text using OCR** and automatica
 
 ### 3. Database Proof (user registered with hashed password)  
 ![Database Screenshot](screenshots/db.png)  
-*Shows that the password is stored securely using hashing.*  
 
 ### 4. Home Page  
 ![Home Page](screenshots/home.png)  
